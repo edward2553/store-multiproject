@@ -1,0 +1,5 @@
+rootProject.name = 'storemultiproject2'
+
+include 'service-product'
+include 'service-customer'
+include 'service-shopping'
